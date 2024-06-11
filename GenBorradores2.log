@@ -1,0 +1,260 @@
+2024-06-11 09:22:12,725 - root - INFO - 
+2024-06-11 09:22:12,725 - root - INFO - 
+2024-06-11 09:22:12,725 - root - INFO - 
+2024-06-11 09:22:12,725 - root - INFO - 
+2024-06-11 09:22:12,725 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 09:22:12,725 - root - INFO - Leyendo la config desde el archivo: GenBorradores2.ini
+2024-06-11 09:43:15,548 - root - INFO - 
+2024-06-11 09:43:15,548 - root - INFO - 
+2024-06-11 09:43:15,548 - root - INFO - 
+2024-06-11 09:43:15,548 - root - INFO - 
+2024-06-11 09:43:15,548 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 09:43:15,563 - root - INFO - Leyendo la config desde el archivo: GenBorradores2.ini
+2024-06-11 09:43:15,689 - root - INFO - Conectando a la BD, OK.
+2024-06-11 09:43:15,722 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, email_empresa, seguridad_correo, tecnico_correo, emergencia1_email, emergencia2_email, emergencia3_email,emergencia4_email,emergencia5_email,emergencia6_email, empresa_guardia, EstadoCamDia, EstadoCamNoc, UltEstadoCamDia, UltEstadoCamnoc FROM empresa where estadocamdia > 1
+2024-06-11 09:43:15,739 - root - INFO - Total empresas: 13
+2024-06-11 09:43:15,764 - root - INFO - ---Preparando estado de cámaras: ACEMED SPA
+2024-06-11 09:43:15,764 - root - INFO - Mombre de archivo imagen: ACEMED SPA_20240611.jpg
+2024-06-11 09:43:15,765 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED SPA_20240611.jpg
+2024-06-11 09:43:15,774 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:15,860 - root - INFO - Lista de destinatarios: ivancarabantes@yahoo.com; info@acemed.cl; comercial@acemed.cl
+2024-06-11 09:43:15,863 - root - INFO - Incrustando imagen en el correo.
+2024-06-11 09:43:16,043 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,046 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,052 - root - INFO - Archivo movido a: C:\Utils\EstadoCamPY\Capturas\20240611\Enviadas\ACEMED SPA_20240611.jpg
+2024-06-11 09:43:16,061 - root - INFO - ---Preparando estado de cámaras: AGTV
+2024-06-11 09:43:16,061 - root - INFO - Mombre de archivo imagen: AGTV_20240611.jpg
+2024-06-11 09:43:16,061 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 09:43:16,065 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,102 - root - INFO - Lista de destinatarios: cesar.norambuena@agtv.cl
+2024-06-11 09:43:16,109 - root - INFO - Incrustando imagen en el correo.
+2024-06-11 09:43:16,147 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,154 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,166 - root - INFO - Archivo movido a: C:\Utils\EstadoCamPY\Capturas\20240611\Enviadas\AGTV_20240611.jpg
+2024-06-11 09:43:16,193 - root - INFO - ---Preparando estado de cámaras: BASCUÑAN 222
+2024-06-11 09:43:16,193 - root - INFO - Mombre de archivo imagen: BASCUÑAN 222_20240611.jpg
+2024-06-11 09:43:16,193 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUÑAN 222_20240611.jpg
+2024-06-11 09:43:16,206 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,245 - root - INFO - Lista de destinatarios: aristegui.patricio@gmail.com
+2024-06-11 09:43:16,252 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:16,268 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,275 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,288 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUÑAN 222_20240611.jpg.
+2024-06-11 09:43:16,313 - root - INFO - ---Preparando estado de cámaras: BODEGA CESAR
+2024-06-11 09:43:16,313 - root - INFO - Mombre de archivo imagen: BODEGA CESAR_20240611.jpg
+2024-06-11 09:43:16,313 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\BODEGA CESAR_20240611.jpg
+2024-06-11 09:43:16,325 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,363 - root - INFO - Lista de destinatarios: cesarjadue@hotmail.com
+2024-06-11 09:43:16,370 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:16,385 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,393 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,405 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BODEGA CESAR_20240611.jpg.
+2024-06-11 09:43:16,429 - root - INFO - ---Preparando estado de cámaras: SAN JOAQUIN
+2024-06-11 09:43:16,429 - root - INFO - Mombre de archivo imagen: SAN JOAQUIN_20240611.jpg
+2024-06-11 09:43:16,429 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\SAN JOAQUIN_20240611.jpg
+2024-06-11 09:43:16,441 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,485 - root - INFO - Lista de destinatarios: chavarrihugot@gmail.com
+2024-06-11 09:43:16,492 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:16,509 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,515 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,527 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\SAN JOAQUIN_20240611.jpg.
+2024-06-11 09:43:16,550 - root - INFO - ---Preparando estado de cámaras: JAIME URIBE
+2024-06-11 09:43:16,551 - root - INFO - Mombre de archivo imagen: JAIME URIBE_20240611.jpg
+2024-06-11 09:43:16,551 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 09:43:16,562 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,614 - root - INFO - Lista de destinatarios: mauriciouribev@gmail.com; jaimeuribev@gmail.com; pabloramirezprk@gmail.com
+2024-06-11 09:43:16,621 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:16,638 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,645 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,657 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg.
+2024-06-11 09:43:16,685 - root - INFO - ---Preparando estado de cámaras: MQI CONCHALI
+2024-06-11 09:43:16,685 - root - INFO - Mombre de archivo imagen: MQI CONCHALI_20240611.jpg
+2024-06-11 09:43:16,685 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\MQI CONCHALI_20240611.jpg
+2024-06-11 09:43:16,696 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,742 - root - INFO - Lista de destinatarios: jacqueline.aceituno@mqi.cl
+2024-06-11 09:43:16,750 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:16,767 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,774 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,789 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\MQI CONCHALI_20240611.jpg.
+2024-06-11 09:43:16,817 - root - INFO - ---Preparando estado de cámaras: DEGRAF
+2024-06-11 09:43:16,817 - root - INFO - Mombre de archivo imagen: DEGRAF_20240611.jpg
+2024-06-11 09:43:16,817 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\DEGRAF_20240611.jpg
+2024-06-11 09:43:16,830 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:16,887 - root - INFO - Lista de destinatarios: vigilanciadegraf@gmail.com; gabrielaperez@degraf.cl; jpperez@degraf.cl; plyon@degraf.cl; ernestoperez@degraf.cl; jpcardona@degraf.cl
+2024-06-11 09:43:16,894 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:16,910 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:16,918 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:16,932 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\DEGRAF_20240611.jpg.
+2024-06-11 09:43:16,959 - root - INFO - ---Preparando estado de cámaras: BELUXA
+2024-06-11 09:43:16,959 - root - INFO - Mombre de archivo imagen: BELUXA_20240611.jpg
+2024-06-11 09:43:16,959 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg
+2024-06-11 09:43:16,972 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:17,026 - root - INFO - Lista de destinatarios: director@beluxa.cl; MCARIZ@BELUXA.CL; calidad@beluxa.cl; jramirez@beluxa.cl
+2024-06-11 09:43:17,034 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:17,050 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:17,057 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:17,071 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg.
+2024-06-11 09:43:17,099 - root - INFO - ---Preparando estado de cámaras: METALDUO
+2024-06-11 09:43:17,099 - root - INFO - Mombre de archivo imagen: METALDUO_20240611.jpg
+2024-06-11 09:43:17,099 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\METALDUO_20240611.jpg
+2024-06-11 09:43:17,111 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:17,161 - root - INFO - Lista de destinatarios: cesar.gametal@gmail.com
+2024-06-11 09:43:17,170 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:17,186 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:17,193 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:17,208 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\METALDUO_20240611.jpg.
+2024-06-11 09:43:17,230 - root - INFO - ---Preparando estado de cámaras: DAFF
+2024-06-11 09:43:17,230 - root - INFO - Mombre de archivo imagen: DAFF_20240611.jpg
+2024-06-11 09:43:17,230 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\DAFF_20240611.jpg
+2024-06-11 09:43:17,243 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:17,291 - root - INFO - Lista de destinatarios: dmelej@daff.cl
+2024-06-11 09:43:17,299 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:17,316 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:17,325 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:17,339 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\DAFF_20240611.jpg.
+2024-06-11 09:43:17,368 - root - INFO - ---Preparando estado de cámaras: EBCO VITAPARK
+2024-06-11 09:43:17,368 - root - INFO - Mombre de archivo imagen: EBCO VITAPARK_20240611.jpg
+2024-06-11 09:43:17,368 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO VITAPARK_20240611.jpg
+2024-06-11 09:43:17,380 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:17,436 - root - INFO - Lista de destinatarios: paulina.sepulveda@ebco.cl; guillermo.acevedo@ebco.cl; claudio.olguin@ebco.cl; christian.reyne@ebco.cl
+2024-06-11 09:43:17,445 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:17,467 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:17,476 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:17,492 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO VITAPARK_20240611.jpg.
+2024-06-11 09:43:17,526 - root - INFO - ---Preparando estado de cámaras: EBCO LOS ENCINOS
+2024-06-11 09:43:17,526 - root - INFO - Mombre de archivo imagen: EBCO LOS ENCINOS_20240611.jpg
+2024-06-11 09:43:17,526 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO LOS ENCINOS_20240611.jpg
+2024-06-11 09:43:17,541 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:17,596 - root - INFO - Lista de destinatarios: Juan.sepulveda@ebco.cl; christian.reyne@ebco.cl
+2024-06-11 09:43:17,605 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:17,622 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:17,631 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:17,645 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO LOS ENCINOS_20240611.jpg.
+2024-06-11 09:43:17,675 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 09:43:49,248 - root - INFO - 
+2024-06-11 09:43:49,249 - root - INFO - 
+2024-06-11 09:43:49,249 - root - INFO - 
+2024-06-11 09:43:49,249 - root - INFO - 
+2024-06-11 09:43:49,249 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 09:43:49,301 - root - INFO - Leyendo la config desde el archivo: GenBorradores2.ini
+2024-06-11 09:43:49,442 - root - INFO - Conectando a la BD, OK.
+2024-06-11 09:43:49,499 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, email_empresa, seguridad_correo, tecnico_correo, emergencia1_email, emergencia2_email, emergencia3_email,emergencia4_email,emergencia5_email,emergencia6_email, empresa_guardia, EstadoCamDia, EstadoCamNoc, UltEstadoCamDia, UltEstadoCamnoc FROM empresa where estadocamdia > 1
+2024-06-11 09:43:49,516 - root - INFO - Total empresas: 13
+2024-06-11 09:43:49,545 - root - INFO - ---Preparando estado de cámaras: ACEMED SPA
+2024-06-11 09:43:49,545 - root - INFO - Mombre de archivo imagen: ACEMED SPA_20240611.jpg
+2024-06-11 09:43:49,545 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED SPA_20240611.jpg
+2024-06-11 09:43:49,558 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:49,619 - root - INFO - Lista de destinatarios: comercial@acemed.cl; info@acemed.cl; ivancarabantes@yahoo.com
+2024-06-11 09:43:49,627 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:49,647 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:49,656 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:49,681 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED SPA_20240611.jpg.
+2024-06-11 09:43:49,709 - root - INFO - ---Preparando estado de cámaras: AGTV
+2024-06-11 09:43:49,709 - root - INFO - Mombre de archivo imagen: AGTV_20240611.jpg
+2024-06-11 09:43:49,709 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 09:43:49,724 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:49,771 - root - INFO - Lista de destinatarios: cesar.norambuena@agtv.cl
+2024-06-11 09:43:49,778 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:49,795 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:49,803 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:49,822 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg.
+2024-06-11 09:43:49,862 - root - INFO - ---Preparando estado de cámaras: BASCUÑAN 222
+2024-06-11 09:43:49,862 - root - INFO - Mombre de archivo imagen: BASCUÑAN 222_20240611.jpg
+2024-06-11 09:43:49,862 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUÑAN 222_20240611.jpg
+2024-06-11 09:43:49,878 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:49,922 - root - INFO - Lista de destinatarios: aristegui.patricio@gmail.com
+2024-06-11 09:43:49,930 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:49,949 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:49,961 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:49,984 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUÑAN 222_20240611.jpg.
+2024-06-11 09:43:50,029 - root - INFO - ---Preparando estado de cámaras: BODEGA CESAR
+2024-06-11 09:43:50,029 - root - INFO - Mombre de archivo imagen: BODEGA CESAR_20240611.jpg
+2024-06-11 09:43:50,029 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\BODEGA CESAR_20240611.jpg
+2024-06-11 09:43:50,048 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:50,230 - root - INFO - Lista de destinatarios: cesarjadue@hotmail.com
+2024-06-11 09:43:50,237 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:50,255 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:50,263 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:50,277 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BODEGA CESAR_20240611.jpg.
+2024-06-11 09:43:50,310 - root - INFO - ---Preparando estado de cámaras: SAN JOAQUIN
+2024-06-11 09:43:50,310 - root - INFO - Mombre de archivo imagen: SAN JOAQUIN_20240611.jpg
+2024-06-11 09:43:50,310 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\SAN JOAQUIN_20240611.jpg
+2024-06-11 09:43:50,323 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:50,371 - root - INFO - Lista de destinatarios: chavarrihugot@gmail.com
+2024-06-11 09:43:50,386 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:50,408 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:50,416 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:50,437 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\SAN JOAQUIN_20240611.jpg.
+2024-06-11 09:43:50,481 - root - INFO - ---Preparando estado de cámaras: JAIME URIBE
+2024-06-11 09:43:50,481 - root - INFO - Mombre de archivo imagen: JAIME URIBE_20240611.jpg
+2024-06-11 09:43:50,481 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 09:43:50,494 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:50,554 - root - INFO - Lista de destinatarios: mauriciouribev@gmail.com; pabloramirezprk@gmail.com; jaimeuribev@gmail.com
+2024-06-11 09:43:50,562 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:50,579 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:50,588 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:50,604 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg.
+2024-06-11 09:43:50,639 - root - INFO - ---Preparando estado de cámaras: MQI CONCHALI
+2024-06-11 09:43:50,639 - root - INFO - Mombre de archivo imagen: MQI CONCHALI_20240611.jpg
+2024-06-11 09:43:50,639 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\MQI CONCHALI_20240611.jpg
+2024-06-11 09:43:50,653 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:50,705 - root - INFO - Lista de destinatarios: jacqueline.aceituno@mqi.cl
+2024-06-11 09:43:50,713 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:50,730 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:50,739 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:50,764 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\MQI CONCHALI_20240611.jpg.
+2024-06-11 09:43:50,802 - root - INFO - ---Preparando estado de cámaras: DEGRAF
+2024-06-11 09:43:50,802 - root - INFO - Mombre de archivo imagen: DEGRAF_20240611.jpg
+2024-06-11 09:43:50,802 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\DEGRAF_20240611.jpg
+2024-06-11 09:43:50,818 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:50,878 - root - INFO - Lista de destinatarios: jpcardona@degraf.cl; vigilanciadegraf@gmail.com; gabrielaperez@degraf.cl; ernestoperez@degraf.cl; jpperez@degraf.cl; plyon@degraf.cl
+2024-06-11 09:43:50,886 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:50,905 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:50,914 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:50,932 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\DEGRAF_20240611.jpg.
+2024-06-11 09:43:50,966 - root - INFO - ---Preparando estado de cámaras: BELUXA
+2024-06-11 09:43:50,967 - root - INFO - Mombre de archivo imagen: BELUXA_20240611.jpg
+2024-06-11 09:43:50,967 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg
+2024-06-11 09:43:50,982 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:51,048 - root - INFO - Lista de destinatarios: MCARIZ@BELUXA.CL; calidad@beluxa.cl; jramirez@beluxa.cl; director@beluxa.cl
+2024-06-11 09:43:51,056 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:51,074 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:51,083 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:51,099 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg.
+2024-06-11 09:43:51,130 - root - INFO - ---Preparando estado de cámaras: METALDUO
+2024-06-11 09:43:51,130 - root - INFO - Mombre de archivo imagen: METALDUO_20240611.jpg
+2024-06-11 09:43:51,131 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\METALDUO_20240611.jpg
+2024-06-11 09:43:51,144 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:51,196 - root - INFO - Lista de destinatarios: cesar.gametal@gmail.com
+2024-06-11 09:43:51,205 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:51,221 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:51,230 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:51,246 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\METALDUO_20240611.jpg.
+2024-06-11 09:43:51,280 - root - INFO - ---Preparando estado de cámaras: DAFF
+2024-06-11 09:43:51,280 - root - INFO - Mombre de archivo imagen: DAFF_20240611.jpg
+2024-06-11 09:43:51,280 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\DAFF_20240611.jpg
+2024-06-11 09:43:51,295 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:51,351 - root - INFO - Lista de destinatarios: dmelej@daff.cl
+2024-06-11 09:43:51,360 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:51,385 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:51,397 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:51,414 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\DAFF_20240611.jpg.
+2024-06-11 09:43:51,458 - root - INFO - ---Preparando estado de cámaras: EBCO VITAPARK
+2024-06-11 09:43:51,458 - root - INFO - Mombre de archivo imagen: EBCO VITAPARK_20240611.jpg
+2024-06-11 09:43:51,458 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO VITAPARK_20240611.jpg
+2024-06-11 09:43:51,476 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:51,537 - root - INFO - Lista de destinatarios: christian.reyne@ebco.cl; claudio.olguin@ebco.cl; paulina.sepulveda@ebco.cl; guillermo.acevedo@ebco.cl
+2024-06-11 09:43:51,545 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:51,563 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:51,572 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:51,589 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO VITAPARK_20240611.jpg.
+2024-06-11 09:43:51,629 - root - INFO - ---Preparando estado de cámaras: EBCO LOS ENCINOS
+2024-06-11 09:43:51,629 - root - INFO - Mombre de archivo imagen: EBCO LOS ENCINOS_20240611.jpg
+2024-06-11 09:43:51,629 - root - INFO - Ruta de archivo imagen: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO LOS ENCINOS_20240611.jpg
+2024-06-11 09:43:51,655 - root - INFO - Leyendo lista de destinatarios, eliminando repetidos y limpiando casillas mal escritas.
+2024-06-11 09:43:51,704 - root - INFO - Lista de destinatarios: Juan.sepulveda@ebco.cl; christian.reyne@ebco.cl
+2024-06-11 09:43:51,712 - root - INFO - No se encontro imagen a incrustar.
+2024-06-11 09:43:51,729 - root - INFO - Guardando el borrador.
+2024-06-11 09:43:51,739 - root - INFO - Moviendo imagen ya procesada, a la carpeta de enviados.
+2024-06-11 09:43:51,761 - root - INFO - No se ha podido mover el archivo: C:\Utils\EstadoCamPY\Capturas\20240611\EBCO LOS ENCINOS_20240611.jpg.
+2024-06-11 09:43:51,793 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***

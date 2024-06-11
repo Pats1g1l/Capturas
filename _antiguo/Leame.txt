@@ -1,0 +1,23 @@
+GenBorradores.py
+Primera version de pruebas. Comprueba que se puede leer la BD MySQL de la intranet (en la web) y se pueden generar los borradores 
+hacia Outlook APP desktop.
+
+
+Ponefoco.py
+Prueba de manipulación de teclado y mouse en pyautogui. Comprueba que si se puede manejar DSS Client mediante RPA.
+Se detecta que funciona solamente cuando se ejecuta el codigo con privilegios de admin de windows.
+
+
+GenBorradores2.py
+Segunda version, de pruebas. Se detecta que al ejecutar como admin, hay problemas al momento de instanciar Outlook.
+Importante: Por tanto se determina momentaneamente separar en 2 las app (hasta que se encuentre una solución a lo detectado):
+- GenCapturas: Que funciona solamente ejecutado con privilegios de admin.
+- GenBorradores: Que funciona solamente SIN privilegios de admin.
+
+
+PENDIENTES
+----------
+- Cuando se leen los datos de la BD hay muchos que quedan con caractéres extraños (la ñ, el acento, etc.) parece ser un problema de collation.
+Hay que investigar y resolver esto.
+
+- 
