@@ -220,3 +220,933 @@
 2024-06-11 10:29:43,421 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
 2024-06-11 10:29:43,553 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
 2024-06-11 10:29:43,655 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:43:09,270 - root - INFO - 
+2024-06-11 11:43:09,270 - root - INFO - 
+2024-06-11 11:43:09,270 - root - INFO - 
+2024-06-11 11:43:09,270 - root - INFO - 
+2024-06-11 11:43:09,270 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:43:09,355 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:43:09,371 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:43:09,396 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:43:11,430 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:43:13,446 - root - INFO - Conectando a la BD.
+2024-06-11 11:43:13,578 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:43:13,611 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:43:13,628 - root - INFO - Total empresas: 0
+2024-06-11 11:43:13,635 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:43:13,644 - root - INFO - Total empresas: 0
+2024-06-11 11:43:13,905 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:43:13,921 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:43:14,059 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:43:14,203 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:43:14,307 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:43:33,454 - root - INFO - 
+2024-06-11 11:43:33,454 - root - INFO - 
+2024-06-11 11:43:33,454 - root - INFO - 
+2024-06-11 11:43:33,454 - root - INFO - 
+2024-06-11 11:43:33,454 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:43:33,513 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:43:33,520 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:43:33,538 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:43:35,569 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:43:37,580 - root - INFO - Conectando a la BD.
+2024-06-11 11:43:37,649 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:43:37,697 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:43:37,714 - root - INFO - Total empresas: 0
+2024-06-11 11:43:37,724 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:43:37,732 - root - INFO - Total empresas: 0
+2024-06-11 11:43:37,773 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:43:37,781 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:43:37,912 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:43:38,038 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:43:38,141 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:43:51,362 - root - INFO - 
+2024-06-11 11:43:51,363 - root - INFO - 
+2024-06-11 11:43:51,363 - root - INFO - 
+2024-06-11 11:43:51,363 - root - INFO - 
+2024-06-11 11:43:51,363 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:43:51,427 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:43:51,436 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:43:51,452 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:43:53,483 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:43:55,502 - root - INFO - Conectando a la BD.
+2024-06-11 11:43:55,574 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:43:55,609 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:43:55,630 - root - INFO - Total empresas: 0
+2024-06-11 11:43:55,640 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:43:55,648 - root - INFO - Total empresas: 0
+2024-06-11 11:43:55,688 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:43:55,697 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:43:55,829 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:43:55,970 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:43:56,078 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:45:33,904 - root - INFO - 
+2024-06-11 11:45:33,904 - root - INFO - 
+2024-06-11 11:45:33,904 - root - INFO - 
+2024-06-11 11:45:33,904 - root - INFO - 
+2024-06-11 11:45:33,904 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:45:33,965 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:45:33,972 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:45:33,987 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:45:36,021 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:45:38,034 - root - INFO - Conectando a la BD.
+2024-06-11 11:45:38,098 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:45:38,144 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:45:38,168 - root - INFO - Total empresas: 0
+2024-06-11 11:45:38,184 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:45:38,193 - root - INFO - Total empresas: 0
+2024-06-11 11:45:38,233 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:45:38,242 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:45:38,373 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:45:38,509 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:45:38,626 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:46:12,277 - root - INFO - 
+2024-06-11 11:46:12,277 - root - INFO - 
+2024-06-11 11:46:12,277 - root - INFO - 
+2024-06-11 11:46:12,277 - root - INFO - 
+2024-06-11 11:46:12,277 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:46:12,348 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:46:12,366 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:46:12,393 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:46:14,424 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:46:16,442 - root - INFO - Conectando a la BD.
+2024-06-11 11:46:16,722 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:46:16,768 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:46:16,792 - root - INFO - Total empresas: 0
+2024-06-11 11:46:16,809 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:46:16,822 - root - INFO - Total empresas: 0
+2024-06-11 11:46:16,863 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:46:16,871 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:46:17,013 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:46:17,154 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:46:17,257 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:46:48,426 - root - INFO - 
+2024-06-11 11:46:48,426 - root - INFO - 
+2024-06-11 11:46:48,426 - root - INFO - 
+2024-06-11 11:46:48,426 - root - INFO - 
+2024-06-11 11:46:48,426 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:46:48,433 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:46:48,436 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:46:48,443 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:46:50,465 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:46:52,473 - root - INFO - Conectando a la BD.
+2024-06-11 11:46:52,538 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:46:52,567 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:46:52,581 - root - INFO - Total empresas: 0
+2024-06-11 11:46:52,588 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:46:52,594 - root - INFO - Total empresas: 0
+2024-06-11 11:46:52,635 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:46:52,642 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:46:52,777 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:46:52,902 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:46:53,006 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 11:48:00,844 - root - INFO - 
+2024-06-11 11:48:00,846 - root - INFO - 
+2024-06-11 11:48:00,846 - root - INFO - 
+2024-06-11 11:48:00,846 - root - INFO - 
+2024-06-11 11:48:00,846 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 11:48:00,850 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 11:48:00,853 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 11:48:00,863 - root - INFO - Creando carpeta diaria.
+2024-06-11 11:48:02,884 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 11:48:04,890 - root - INFO - Conectando a la BD.
+2024-06-11 11:48:05,009 - root - INFO - Conectando a la BD, OK.
+2024-06-11 11:48:05,034 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 11:48:05,059 - root - INFO - Total empresas: 0
+2024-06-11 11:48:05,066 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 11:48:05,071 - root - INFO - Total empresas: 0
+2024-06-11 11:48:05,105 - root - INFO - Conexion BD cerrada.
+2024-06-11 11:48:05,109 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 11:48:05,233 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 11:48:05,350 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 11:48:05,460 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:03:43,840 - root - INFO - 
+2024-06-11 12:03:43,841 - root - INFO - 
+2024-06-11 12:03:43,841 - root - INFO - 
+2024-06-11 12:03:43,841 - root - INFO - 
+2024-06-11 12:03:43,841 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:03:43,908 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:03:43,917 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:03:43,936 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:03:45,961 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:03:47,971 - root - INFO - Conectando a la BD.
+2024-06-11 12:03:48,878 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:03:48,908 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:03:48,926 - root - INFO - Total empresas: 2
+2024-06-11 12:03:48,935 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:03:48,947 - root - INFO - --ID Empresa: 9, Nombre: ACEMED SPA, EstadoCamNombre: ACEMED SPA, RUT: 76.084.383-0
+2024-06-11 12:03:48,968 - root - INFO - --ID Empresa: 12, Nombre: BASCUNAN 222, EstadoCamNombre: BASCUÑAN 222, RUT: 78235450-7
+2024-06-11 12:03:48,976 - root - INFO - Total empresas: 2
+2024-06-11 12:03:51,017 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: 2023-06-11
+2024-06-11 12:03:51,027 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:03:52,156 - root - INFO - Escribir Nombre Empresa [ACEMED SPA]
+2024-06-11 12:03:54,539 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 12:03:59,682 - root - INFO - El nombre de archivo sera: ACEMED SPA_20240611.jpg
+2024-06-11 12:03:59,697 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 12:03:59,840 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED SPA_20240611.jpg
+2024-06-11 12:03:59,863 - root - INFO - Guardado OK.
+2024-06-11 12:03:59,871 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 12:04:02,062 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 12:04:02,071 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:04:03,190 - root - INFO - Escribir Nombre Empresa [BASCUÑAN 222]
+2024-06-11 12:04:05,576 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 12:04:10,702 - root - INFO - El nombre de archivo sera: BASCUÑAN 222_20240611.jpg
+2024-06-11 12:04:10,711 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 12:04:10,778 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUÑAN 222_20240611.jpg
+2024-06-11 12:04:10,792 - root - INFO - Guardado OK.
+2024-06-11 12:04:10,798 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 12:04:10,991 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:04:11,007 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:04:11,139 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:04:11,278 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:04:11,380 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:12:38,499 - root - INFO - 
+2024-06-11 12:12:38,499 - root - INFO - 
+2024-06-11 12:12:38,499 - root - INFO - 
+2024-06-11 12:12:38,499 - root - INFO - 
+2024-06-11 12:12:38,499 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:12:38,569 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:12:38,577 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:12:38,594 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:12:40,633 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:12:42,650 - root - INFO - Conectando a la BD.
+2024-06-11 12:12:42,778 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:12:42,822 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:12:43,503 - root - INFO - Total empresas: 0
+2024-06-11 12:12:43,520 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:12:43,529 - root - INFO - Total empresas: 0
+2024-06-11 12:12:43,571 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:12:43,582 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:12:43,721 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:12:43,860 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:12:43,964 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:13:28,108 - root - INFO - 
+2024-06-11 12:13:28,109 - root - INFO - 
+2024-06-11 12:13:28,109 - root - INFO - 
+2024-06-11 12:13:28,109 - root - INFO - 
+2024-06-11 12:13:28,109 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:13:28,125 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:13:28,133 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:13:28,150 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:13:30,186 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:13:32,203 - root - INFO - Conectando a la BD.
+2024-06-11 12:13:32,278 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:13:32,327 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:13:32,348 - root - INFO - Total empresas: 0
+2024-06-11 12:13:32,357 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:13:32,365 - root - INFO - Total empresas: 0
+2024-06-11 12:13:32,407 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:13:32,413 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:13:32,549 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:13:32,690 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:13:32,794 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:13:45,832 - root - INFO - 
+2024-06-11 12:13:45,832 - root - INFO - 
+2024-06-11 12:13:45,832 - root - INFO - 
+2024-06-11 12:13:45,832 - root - INFO - 
+2024-06-11 12:13:45,832 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:13:45,847 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:13:45,856 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:13:45,870 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:13:47,901 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:13:49,917 - root - INFO - Conectando a la BD.
+2024-06-11 12:13:51,057 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:13:51,101 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:13:51,125 - root - INFO - Total empresas: 0
+2024-06-11 12:13:51,140 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:13:51,151 - root - INFO - Total empresas: 0
+2024-06-11 12:13:51,417 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:13:51,433 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:13:51,576 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:13:51,716 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:13:51,831 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:14:51,502 - root - INFO - 
+2024-06-11 12:14:51,502 - root - INFO - 
+2024-06-11 12:14:51,502 - root - INFO - 
+2024-06-11 12:14:51,502 - root - INFO - 
+2024-06-11 12:14:51,502 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:14:51,565 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:14:51,573 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:14:51,589 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:14:53,626 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:14:55,643 - root - INFO - Conectando a la BD.
+2024-06-11 12:14:55,775 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:14:55,826 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:14:55,851 - root - INFO - Total empresas: 0
+2024-06-11 12:14:55,861 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:14:55,871 - root - INFO - Total empresas: 0
+2024-06-11 12:14:55,915 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:14:55,925 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:14:56,057 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:14:56,196 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:14:56,312 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:15:25,011 - root - INFO - 
+2024-06-11 12:15:25,011 - root - INFO - 
+2024-06-11 12:15:25,011 - root - INFO - 
+2024-06-11 12:15:25,011 - root - INFO - 
+2024-06-11 12:15:25,011 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:15:25,099 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:15:25,109 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:15:25,131 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:15:27,201 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:15:29,218 - root - INFO - Conectando a la BD.
+2024-06-11 12:15:29,497 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:15:29,540 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:15:29,557 - root - INFO - Total empresas: 2
+2024-06-11 12:15:29,565 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:15:29,578 - root - INFO - --ID Empresa: 9, Nombre: ACEMED SPA, EstadoCamNombre: ACEMED SPA, RUT: 76.084.383-0
+2024-06-11 12:15:29,586 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 12:15:29,593 - root - INFO - Total empresas: 2
+2024-06-11 12:15:31,634 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 12:15:31,647 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:15:32,781 - root - INFO - Escribir Nombre Empresa [ACEMED SPA]
+2024-06-11 12:15:35,187 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 12:15:40,312 - root - INFO - El nombre de archivo sera: ACEMED SPA_20240611.jpg
+2024-06-11 12:15:40,328 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 12:15:40,478 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED SPA_20240611.jpg
+2024-06-11 12:15:40,514 - root - INFO - Guardado OK.
+2024-06-11 12:15:40,525 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 12:15:42,695 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 12:15:42,711 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:15:43,845 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 12:15:46,185 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 12:15:51,312 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 12:15:51,323 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 12:15:51,376 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 12:15:51,388 - root - INFO - Guardado OK.
+2024-06-11 12:15:51,395 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 12:15:51,619 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:15:51,633 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:15:51,770 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:15:51,911 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:15:52,013 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:16:39,836 - root - INFO - 
+2024-06-11 12:16:39,836 - root - INFO - 
+2024-06-11 12:16:39,836 - root - INFO - 
+2024-06-11 12:16:39,836 - root - INFO - 
+2024-06-11 12:16:39,836 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:16:39,849 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:16:39,856 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:16:39,872 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:16:41,906 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:16:43,922 - root - INFO - Conectando a la BD.
+2024-06-11 12:16:44,206 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:16:44,246 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:16:44,263 - root - INFO - Total empresas: 1
+2024-06-11 12:16:44,270 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:16:44,276 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 12:16:44,284 - root - INFO - Total empresas: 1
+2024-06-11 12:16:46,309 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 12:16:46,316 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:16:47,443 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 12:16:49,820 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 12:16:54,947 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 12:16:54,956 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 12:16:55,008 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 12:16:55,032 - root - INFO - Guardado OK.
+2024-06-11 12:16:55,039 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 12:16:55,244 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:16:55,260 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:16:55,397 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:16:55,538 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:16:55,641 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:18:55,548 - root - INFO - 
+2024-06-11 12:18:55,548 - root - INFO - 
+2024-06-11 12:18:55,549 - root - INFO - 
+2024-06-11 12:18:55,549 - root - INFO - 
+2024-06-11 12:18:55,549 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:18:55,588 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:18:55,599 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:18:55,617 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:18:57,654 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:18:59,671 - root - INFO - Conectando a la BD.
+2024-06-11 12:18:59,803 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:18:59,845 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:18:59,867 - root - INFO - Total empresas: 0
+2024-06-11 12:18:59,877 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:18:59,889 - root - INFO - Total empresas: 0
+2024-06-11 12:18:59,932 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:18:59,943 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:19:00,074 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:19:00,208 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:19:00,329 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 12:19:48,963 - root - INFO - 
+2024-06-11 12:19:48,963 - root - INFO - 
+2024-06-11 12:19:48,963 - root - INFO - 
+2024-06-11 12:19:48,963 - root - INFO - 
+2024-06-11 12:19:48,964 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 12:19:49,046 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 12:19:49,059 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 12:19:49,078 - root - INFO - Creando carpeta diaria.
+2024-06-11 12:19:51,111 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 12:19:53,127 - root - INFO - Conectando a la BD.
+2024-06-11 12:19:53,200 - root - INFO - Conectando a la BD, OK.
+2024-06-11 12:19:53,244 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 12:19:53,264 - root - INFO - Total empresas: 1
+2024-06-11 12:19:53,272 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 12:19:53,281 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 12:19:53,288 - root - INFO - Total empresas: 1
+2024-06-11 12:19:55,329 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 12:19:55,342 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:19:56,486 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 12:19:58,868 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 12:20:03,999 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 12:20:04,015 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 12:20:04,081 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 12:20:04,103 - root - INFO - Guardado OK.
+2024-06-11 12:20:04,111 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 12:20:04,324 - root - INFO - Conexion BD cerrada.
+2024-06-11 12:20:04,339 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 12:20:04,470 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 12:20:04,612 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 12:20:04,714 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 14:32:34,071 - root - INFO - 
+2024-06-11 14:32:34,071 - root - INFO - 
+2024-06-11 14:32:34,071 - root - INFO - 
+2024-06-11 14:32:34,071 - root - INFO - 
+2024-06-11 14:32:34,071 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 14:32:34,076 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 14:32:34,079 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 14:32:34,087 - root - INFO - Creando carpeta diaria.
+2024-06-11 14:32:36,108 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 14:32:38,118 - root - INFO - Conectando a la BD.
+2024-06-11 14:32:38,275 - root - INFO - Conectando a la BD, OK.
+2024-06-11 14:32:38,327 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 14:32:38,355 - root - INFO - Total empresas: 0
+2024-06-11 14:32:38,362 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 14:32:38,369 - root - INFO - Total empresas: 0
+2024-06-11 14:32:38,496 - root - INFO - Conexion BD cerrada.
+2024-06-11 14:32:38,502 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 14:32:38,637 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:32:38,762 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 14:32:38,880 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 14:35:05,039 - root - INFO - 
+2024-06-11 14:35:05,040 - root - INFO - 
+2024-06-11 14:35:05,040 - root - INFO - 
+2024-06-11 14:35:05,040 - root - INFO - 
+2024-06-11 14:35:05,040 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 14:35:05,069 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 14:35:05,073 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 14:35:05,082 - root - INFO - Creando carpeta diaria.
+2024-06-11 14:35:07,119 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 14:35:09,127 - root - INFO - Conectando a la BD.
+2024-06-11 14:35:09,526 - root - INFO - Conectando a la BD, OK.
+2024-06-11 14:35:09,570 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 14:35:09,598 - root - INFO - Total empresas: 5
+2024-06-11 14:35:09,606 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 14:35:09,619 - root - INFO - --ID Empresa: 9, Nombre: ACEMED SPA, EstadoCamNombre: ACEMED SPA, RUT: 76.084.383-0
+2024-06-11 14:35:09,629 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 14:35:09,648 - root - INFO - --ID Empresa: 12, Nombre: BASCUNAN 222, EstadoCamNombre: BASCUÑAN 222, RUT: 78235450-7
+2024-06-11 14:35:09,655 - root - INFO - --ID Empresa: 13, Nombre: BASCUNAN 555, EstadoCamNombre: , RUT: 78235450-7
+2024-06-11 14:35:09,662 - root - INFO - --ID Empresa: 29, Nombre: BELUXA S.A, EstadoCamNombre: BELUXA, RUT: 99548150-2
+2024-06-11 14:35:09,669 - root - INFO - Total empresas: 5
+2024-06-11 14:35:11,714 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:35:11,726 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:35:12,860 - root - INFO - Escribir Nombre Empresa [ACEMED SPA]
+2024-06-11 14:35:15,261 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:35:20,394 - root - INFO - El nombre de archivo sera: ACEMED SPA_20240611.jpg
+2024-06-11 14:35:20,403 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:35:20,467 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED SPA_20240611.jpg
+2024-06-11 14:35:20,491 - root - INFO - Guardado OK.
+2024-06-11 14:35:20,498 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:35:22,774 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:35:22,789 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:35:23,920 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 14:35:26,256 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:35:31,373 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 14:35:31,382 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:35:31,446 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 14:35:31,461 - root - INFO - Guardado OK.
+2024-06-11 14:35:31,467 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:35:33,980 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:35:33,989 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:35:35,120 - root - INFO - Escribir Nombre Empresa [BASCUÑAN 222]
+2024-06-11 14:35:37,481 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:35:42,612 - root - INFO - El nombre de archivo sera: BASCUÑAN 222_20240611.jpg
+2024-06-11 14:35:42,628 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:35:42,774 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUÑAN 222_20240611.jpg
+2024-06-11 14:35:42,803 - root - INFO - Guardado OK.
+2024-06-11 14:35:42,818 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:35:45,101 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:35:45,113 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:35:46,248 - root - INFO - Escribir Nombre Empresa []
+2024-06-11 14:35:48,578 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:35:53,711 - root - INFO - El nombre de archivo sera: _20240611.jpg
+2024-06-11 14:35:53,726 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:35:53,854 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\_20240611.jpg
+2024-06-11 14:35:53,878 - root - INFO - Guardado OK.
+2024-06-11 14:35:53,887 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:35:56,351 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:35:56,364 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:35:57,501 - root - INFO - Escribir Nombre Empresa [BELUXA]
+2024-06-11 14:35:59,900 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:36:05,026 - root - INFO - El nombre de archivo sera: BELUXA_20240611.jpg
+2024-06-11 14:36:05,042 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:36:05,164 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg
+2024-06-11 14:36:05,184 - root - INFO - Guardado OK.
+2024-06-11 14:36:05,194 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:36:05,519 - root - INFO - Conexion BD cerrada.
+2024-06-11 14:36:05,534 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 14:36:05,664 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:36:05,795 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 14:36:05,897 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 14:38:39,870 - root - INFO - 
+2024-06-11 14:38:39,870 - root - INFO - 
+2024-06-11 14:38:39,870 - root - INFO - 
+2024-06-11 14:38:39,870 - root - INFO - 
+2024-06-11 14:38:39,870 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 14:38:39,934 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 14:38:39,941 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 14:38:39,958 - root - INFO - Creando carpeta diaria.
+2024-06-11 14:38:41,990 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 14:38:44,007 - root - INFO - Conectando a la BD.
+2024-06-11 14:38:44,172 - root - INFO - Conectando a la BD, OK.
+2024-06-11 14:38:44,236 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 14:38:44,263 - root - INFO - Total empresas: 5
+2024-06-11 14:38:44,273 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 14:38:44,283 - root - INFO - --ID Empresa: 9, Nombre: ACEMED SPA, EstadoCamNombre: ACEMED, RUT: 76.084.383-0
+2024-06-11 14:38:44,292 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 14:38:44,307 - root - INFO - --ID Empresa: 12, Nombre: BASCUNAN 222, EstadoCamNombre: BASCUNAN 222, RUT: 78235450-7
+2024-06-11 14:38:44,319 - root - INFO - --ID Empresa: 13, Nombre: BASCUNAN 555, EstadoCamNombre: BASCUNAN 555, RUT: 78235450-7
+2024-06-11 14:38:44,326 - root - INFO - --ID Empresa: 29, Nombre: BELUXA S.A, EstadoCamNombre: BELUXA, RUT: 99548150-2
+2024-06-11 14:38:44,333 - root - INFO - Total empresas: 5
+2024-06-11 14:38:46,376 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:38:46,385 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:38:47,519 - root - INFO - Escribir Nombre Empresa [ACEMED]
+2024-06-11 14:38:49,878 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:38:55,046 - root - INFO - El nombre de archivo sera: ACEMED_20240611.jpg
+2024-06-11 14:38:55,053 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:38:55,108 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED_20240611.jpg
+2024-06-11 14:38:55,132 - root - INFO - Guardado OK.
+2024-06-11 14:38:55,138 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:38:57,358 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:38:57,374 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:38:58,492 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 14:39:00,878 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:39:06,045 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 14:39:06,060 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:39:06,176 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 14:39:06,194 - root - INFO - Guardado OK.
+2024-06-11 14:39:06,204 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:39:08,490 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:39:08,504 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:39:09,640 - root - INFO - Escribir Nombre Empresa [BASCUNAN 222]
+2024-06-11 14:39:12,035 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:39:17,222 - root - INFO - El nombre de archivo sera: BASCUNAN 222_20240611.jpg
+2024-06-11 14:39:17,237 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:39:17,300 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUNAN 222_20240611.jpg
+2024-06-11 14:39:17,314 - root - INFO - Guardado OK.
+2024-06-11 14:39:17,320 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:39:19,607 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:39:19,621 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:39:20,757 - root - INFO - Escribir Nombre Empresa [BASCUNAN 555]
+2024-06-11 14:39:23,137 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:39:28,259 - root - INFO - El nombre de archivo sera: BASCUNAN 555_20240611.jpg
+2024-06-11 14:39:28,272 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:39:28,342 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUNAN 555_20240611.jpg
+2024-06-11 14:39:28,356 - root - INFO - Guardado OK.
+2024-06-11 14:39:28,363 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:39:30,653 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:39:30,667 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:39:31,798 - root - INFO - Escribir Nombre Empresa [BELUXA]
+2024-06-11 14:39:34,176 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:39:39,357 - root - INFO - El nombre de archivo sera: BELUXA_20240611.jpg
+2024-06-11 14:39:39,371 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:39:39,434 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg
+2024-06-11 14:39:39,450 - root - INFO - Guardado OK.
+2024-06-11 14:39:39,457 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:39:39,705 - root - INFO - Conexion BD cerrada.
+2024-06-11 14:39:39,721 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 14:39:39,858 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:39:39,994 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 14:39:40,097 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 14:51:45,695 - root - INFO - 
+2024-06-11 14:51:45,695 - root - INFO - 
+2024-06-11 14:51:45,695 - root - INFO - 
+2024-06-11 14:51:45,695 - root - INFO - 
+2024-06-11 14:51:45,695 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 14:51:45,783 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 14:51:45,800 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 14:51:45,819 - root - INFO - Creando carpeta diaria.
+2024-06-11 14:51:47,855 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 14:51:49,879 - root - INFO - Conectando a la BD.
+2024-06-11 14:51:50,024 - root - INFO - Conectando a la BD, OK.
+2024-06-11 14:51:50,090 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 14:51:50,124 - root - INFO - Total empresas: 0
+2024-06-11 14:51:50,140 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 14:51:50,156 - root - INFO - Total empresas: 0
+2024-06-11 14:51:50,292 - root - INFO - Conexion BD cerrada.
+2024-06-11 14:51:50,307 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 14:51:50,449 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:51:50,592 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 14:51:50,705 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 14:56:24,378 - root - INFO - 
+2024-06-11 14:56:24,378 - root - INFO - 
+2024-06-11 14:56:24,378 - root - INFO - 
+2024-06-11 14:56:24,378 - root - INFO - 
+2024-06-11 14:56:24,378 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 14:56:24,444 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 14:56:24,453 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 14:56:24,469 - root - INFO - Creando carpeta diaria.
+2024-06-11 14:56:26,510 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 14:56:28,543 - root - INFO - Conectando a la BD.
+2024-06-11 14:56:28,687 - root - INFO - Conectando a la BD, OK.
+2024-06-11 14:56:28,734 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 14:56:28,769 - root - INFO - Total empresas: 5
+2024-06-11 14:56:28,776 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 14:56:28,784 - root - INFO - --ID Empresa: 9, Nombre: ACEMED SPA, EstadoCamNombre: ACEMED, RUT: 76.084.383-0
+2024-06-11 14:56:28,792 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 14:56:28,805 - root - INFO - --ID Empresa: 12, Nombre: BASCUNAN 222, EstadoCamNombre: BASCUNAN 222, RUT: 78235450-7
+2024-06-11 14:56:28,818 - root - INFO - --ID Empresa: 13, Nombre: BASCUNAN 555, EstadoCamNombre: BASCUNAN 555, RUT: 78235450-7
+2024-06-11 14:56:28,826 - root - INFO - --ID Empresa: 29, Nombre: BELUXA S.A, EstadoCamNombre: BELUXA, RUT: 99548150-2
+2024-06-11 14:56:28,833 - root - INFO - Total empresas: 5
+2024-06-11 14:56:30,880 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:56:30,892 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:56:32,037 - root - INFO - Escribir Nombre Empresa [ACEMED]
+2024-06-11 14:56:34,391 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:56:39,522 - root - INFO - El nombre de archivo sera: ACEMED_20240611.jpg
+2024-06-11 14:56:39,535 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:56:39,660 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED_20240611.jpg
+2024-06-11 14:56:39,689 - root - INFO - Guardado OK.
+2024-06-11 14:56:39,696 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:56:42,019 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:56:42,029 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:56:43,188 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 14:56:45,523 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:56:50,694 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 14:56:50,703 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:56:50,830 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 14:56:50,846 - root - INFO - Guardado OK.
+2024-06-11 14:56:50,854 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:56:53,164 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:56:53,179 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:56:54,327 - root - INFO - Escribir Nombre Empresa [BASCUNAN 222]
+2024-06-11 14:56:56,699 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:57:01,871 - root - INFO - El nombre de archivo sera: BASCUNAN 222_20240611.jpg
+2024-06-11 14:57:01,887 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:57:02,013 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUNAN 222_20240611.jpg
+2024-06-11 14:57:02,030 - root - INFO - Guardado OK.
+2024-06-11 14:57:02,038 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:57:04,324 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:57:04,338 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:57:05,477 - root - INFO - Escribir Nombre Empresa [BASCUNAN 555]
+2024-06-11 14:57:07,819 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:57:12,982 - root - INFO - El nombre de archivo sera: BASCUNAN 555_20240611.jpg
+2024-06-11 14:57:12,990 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:57:13,060 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUNAN 555_20240611.jpg
+2024-06-11 14:57:13,077 - root - INFO - Guardado OK.
+2024-06-11 14:57:13,084 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:57:15,377 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:57:15,391 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:57:16,538 - root - INFO - Escribir Nombre Empresa [BELUXA]
+2024-06-11 14:57:18,923 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:57:24,080 - root - INFO - El nombre de archivo sera: BELUXA_20240611.jpg
+2024-06-11 14:57:24,088 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1375,947)
+2024-06-11 14:57:24,151 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg
+2024-06-11 14:57:24,166 - root - INFO - Guardado OK.
+2024-06-11 14:57:24,173 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:57:24,495 - root - INFO - Conexion BD cerrada.
+2024-06-11 14:57:24,511 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 14:57:24,646 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:57:24,772 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 14:57:24,873 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 14:59:19,412 - root - INFO - 
+2024-06-11 14:59:19,412 - root - INFO - 
+2024-06-11 14:59:19,412 - root - INFO - 
+2024-06-11 14:59:19,412 - root - INFO - 
+2024-06-11 14:59:19,412 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 14:59:19,424 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 14:59:19,431 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 14:59:19,447 - root - INFO - Creando carpeta diaria.
+2024-06-11 14:59:21,481 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 14:59:23,498 - root - INFO - Conectando a la BD.
+2024-06-11 14:59:23,637 - root - INFO - Conectando a la BD, OK.
+2024-06-11 14:59:23,699 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 14:59:23,740 - root - INFO - Total empresas: 1
+2024-06-11 14:59:23,756 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 14:59:23,783 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 14:59:23,792 - root - INFO - Total empresas: 1
+2024-06-11 14:59:25,836 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 14:59:25,853 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:59:27,004 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 14:59:29,385 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 14:59:34,573 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 14:59:34,591 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1372,945)
+2024-06-11 14:59:34,729 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 14:59:34,754 - root - INFO - Guardado OK.
+2024-06-11 14:59:34,762 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 14:59:35,129 - root - INFO - Conexion BD cerrada.
+2024-06-11 14:59:35,144 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 14:59:35,275 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 14:59:35,411 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 14:59:35,518 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:00:25,469 - root - INFO - 
+2024-06-11 15:00:25,469 - root - INFO - 
+2024-06-11 15:00:25,469 - root - INFO - 
+2024-06-11 15:00:25,469 - root - INFO - 
+2024-06-11 15:00:25,469 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:00:25,512 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:00:25,520 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:00:25,536 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:00:27,565 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:00:29,581 - root - INFO - Conectando a la BD.
+2024-06-11 15:00:30,736 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:00:30,798 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:00:30,827 - root - INFO - Total empresas: 1
+2024-06-11 15:00:30,834 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:00:30,846 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 15:00:30,853 - root - INFO - Total empresas: 1
+2024-06-11 15:00:32,900 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:00:32,908 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:00:34,051 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 15:00:36,429 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:00:41,585 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 15:00:41,592 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1372,945)
+2024-06-11 15:00:41,654 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 15:00:41,680 - root - INFO - Guardado OK.
+2024-06-11 15:00:41,687 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:00:42,247 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:00:42,262 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:00:42,393 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:00:42,529 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:00:42,633 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:01:17,071 - root - INFO - 
+2024-06-11 15:01:17,071 - root - INFO - 
+2024-06-11 15:01:17,071 - root - INFO - 
+2024-06-11 15:01:17,071 - root - INFO - 
+2024-06-11 15:01:17,071 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:01:17,149 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:01:17,160 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:01:17,189 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:01:19,230 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:01:21,252 - root - INFO - Conectando a la BD.
+2024-06-11 15:01:21,395 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:01:21,455 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:01:21,491 - root - INFO - Total empresas: 1
+2024-06-11 15:01:21,505 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:01:21,522 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 15:01:21,532 - root - INFO - Total empresas: 1
+2024-06-11 15:01:23,575 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:01:23,583 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:01:24,728 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 15:01:27,117 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:01:32,317 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 15:01:32,332 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1370,940)
+2024-06-11 15:01:32,408 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 15:01:32,435 - root - INFO - Guardado OK.
+2024-06-11 15:01:32,442 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:01:32,764 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:01:32,781 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:01:32,912 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:01:33,043 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:01:33,145 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:04:00,752 - root - INFO - 
+2024-06-11 15:04:00,752 - root - INFO - 
+2024-06-11 15:04:00,753 - root - INFO - 
+2024-06-11 15:04:00,753 - root - INFO - 
+2024-06-11 15:04:00,753 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:04:00,771 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:04:00,779 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:04:00,796 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:04:02,833 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:04:04,883 - root - INFO - Conectando a la BD.
+2024-06-11 15:04:05,024 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:04:05,091 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:04:05,362 - root - INFO - Total empresas: 0
+2024-06-11 15:04:05,371 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:04:05,380 - root - INFO - Total empresas: 0
+2024-06-11 15:04:05,762 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:04:05,777 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:04:05,912 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:04:06,046 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:04:06,166 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:22:43,911 - root - INFO - 
+2024-06-11 15:22:43,911 - root - INFO - 
+2024-06-11 15:22:43,911 - root - INFO - 
+2024-06-11 15:22:43,911 - root - INFO - 
+2024-06-11 15:22:43,911 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:22:43,942 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:22:43,950 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:22:43,974 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:22:45,991 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:22:48,011 - root - INFO - Conectando a la BD.
+2024-06-11 15:22:48,282 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:22:48,315 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:22:48,333 - root - INFO - Total empresas: 1
+2024-06-11 15:22:48,341 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:22:48,354 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 15:22:48,361 - root - INFO - Total empresas: 1
+2024-06-11 15:22:50,393 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:22:50,400 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:22:51,529 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 15:22:53,854 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:22:59,015 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 15:22:59,023 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1370,940)
+2024-06-11 15:22:59,162 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 15:22:59,408 - root - INFO - Guardado OK.
+2024-06-11 15:22:59,415 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:22:59,592 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:22:59,599 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:22:59,729 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:22:59,848 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:22:59,949 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:24:46,596 - root - INFO - 
+2024-06-11 15:24:46,596 - root - INFO - 
+2024-06-11 15:24:46,596 - root - INFO - 
+2024-06-11 15:24:46,596 - root - INFO - 
+2024-06-11 15:24:46,596 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:24:46,612 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:24:46,620 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:24:46,637 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:24:48,654 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:24:50,662 - root - INFO - Conectando a la BD.
+2024-06-11 15:24:50,721 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:24:50,751 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:24:50,767 - root - INFO - Total empresas: 1
+2024-06-11 15:24:50,775 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:24:50,788 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 15:24:50,795 - root - INFO - Total empresas: 1
+2024-06-11 15:24:52,816 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:24:52,824 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:24:53,956 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 15:24:56,294 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:25:01,455 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 15:25:01,466 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1372,942)
+2024-06-11 15:25:01,529 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 15:25:01,553 - root - INFO - Guardado OK.
+2024-06-11 15:25:01,560 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:25:01,742 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:25:01,750 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:25:01,880 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:25:02,011 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:25:02,122 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:25:27,800 - root - INFO - 
+2024-06-11 15:25:27,800 - root - INFO - 
+2024-06-11 15:25:27,800 - root - INFO - 
+2024-06-11 15:25:27,800 - root - INFO - 
+2024-06-11 15:25:27,800 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:25:27,815 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:25:27,824 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:25:27,840 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:25:29,857 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:25:31,892 - root - INFO - Conectando a la BD.
+2024-06-11 15:25:31,953 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:25:31,982 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:25:32,000 - root - INFO - Total empresas: 1
+2024-06-11 15:25:32,007 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:25:32,020 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 15:25:32,027 - root - INFO - Total empresas: 1
+2024-06-11 15:25:34,053 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:25:34,060 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:25:35,201 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 15:25:37,540 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:25:42,704 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 15:25:42,710 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1372,942)
+2024-06-11 15:25:42,780 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 15:25:42,807 - root - INFO - Guardado OK.
+2024-06-11 15:25:42,814 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:25:43,219 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:25:43,226 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:25:43,356 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:25:43,480 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:25:43,581 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:30:03,438 - root - INFO - 
+2024-06-11 15:30:03,438 - root - INFO - 
+2024-06-11 15:30:03,438 - root - INFO - 
+2024-06-11 15:30:03,438 - root - INFO - 
+2024-06-11 15:30:03,438 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:30:03,456 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:30:03,464 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:30:03,481 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:30:05,500 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:30:07,522 - root - INFO - Conectando a la BD.
+2024-06-11 15:30:07,799 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:30:07,829 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:30:07,847 - root - INFO - Total empresas: 1
+2024-06-11 15:30:07,854 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:30:07,866 - root - INFO - --ID Empresa: 18, Nombre: JAIME URIBE , EstadoCamNombre: JAIME URIBE, RUT: 76689630-8
+2024-06-11 15:30:07,874 - root - INFO - Total empresas: 1
+2024-06-11 15:30:09,895 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:30:09,903 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:30:11,043 - root - INFO - Escribir Nombre Empresa [JAIME URIBE]
+2024-06-11 15:30:13,376 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:30:18,519 - root - INFO - El nombre de archivo sera: JAIME URIBE_20240611.jpg
+2024-06-11 15:30:18,526 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1371,941)
+2024-06-11 15:30:18,592 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\JAIME URIBE_20240611.jpg
+2024-06-11 15:30:18,618 - root - INFO - Guardado OK.
+2024-06-11 15:30:18,626 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:30:18,802 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:30:18,810 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:30:18,944 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:30:19,071 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:30:19,172 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***
+2024-06-11 15:33:52,564 - root - INFO - 
+2024-06-11 15:33:52,564 - root - INFO - 
+2024-06-11 15:33:52,564 - root - INFO - 
+2024-06-11 15:33:52,564 - root - INFO - 
+2024-06-11 15:33:52,564 - root - INFO - ***-----------------INICIANDO BOT DSS---------------------------***
+2024-06-11 15:33:52,619 - root - INFO - Asignando valores por defecto antes de leer la config.
+2024-06-11 15:33:52,627 - root - INFO - Leyendo la config desde el archivo: GenCapturas2.ini
+2024-06-11 15:33:52,644 - root - INFO - Creando carpeta diaria.
+2024-06-11 15:33:54,678 - root - INFO - Activando ventana de APP DSS Client.
+2024-06-11 15:33:56,691 - root - INFO - Conectando a la BD.
+2024-06-11 15:33:56,748 - root - INFO - Conectando a la BD, OK.
+2024-06-11 15:33:56,776 - root - INFO - Ejecutando consulta a la BD: SELECT id_empresa, nombre_empresa, EstadoCamNombre, UltEstadoCamDia, rut_empresa FROM empresa where estadocamdia > 0 and deshabilitado = 0 and UltEstadoCamDia < DATE(NOW())
+2024-06-11 15:33:56,792 - root - INFO - Total empresas: 5
+2024-06-11 15:33:56,800 - root - INFO - inicio del listado de empresas a capturar
+2024-06-11 15:33:56,808 - root - INFO - --ID Empresa: 9, Nombre: ACEMED SPA, EstadoCamNombre: ACEMED, RUT: 76.084.383-0
+2024-06-11 15:33:56,815 - root - INFO - --ID Empresa: 11, Nombre: AGTV , EstadoCamNombre: AGTV, RUT: 76092575-6
+2024-06-11 15:33:56,827 - root - INFO - --ID Empresa: 12, Nombre: BASCUNAN 222, EstadoCamNombre: BASCUNAN 222, RUT: 78235450-7
+2024-06-11 15:33:56,840 - root - INFO - --ID Empresa: 13, Nombre: BASCUNAN 555, EstadoCamNombre: BASCUNAN 555, RUT: 78235450-7
+2024-06-11 15:33:56,846 - root - INFO - --ID Empresa: 29, Nombre: BELUXA S.A, EstadoCamNombre: BELUXA, RUT: 99548150-2
+2024-06-11 15:33:56,853 - root - INFO - Total empresas: 5
+2024-06-11 15:33:59,115 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:33:59,121 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:34:00,241 - root - INFO - Escribir Nombre Empresa [ACEMED]
+2024-06-11 15:34:02,621 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:34:07,742 - root - INFO - El nombre de archivo sera: ACEMED_20240611.jpg
+2024-06-11 15:34:07,749 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1371,941)
+2024-06-11 15:34:07,873 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\ACEMED_20240611.jpg
+2024-06-11 15:34:07,897 - root - INFO - Guardado OK.
+2024-06-11 15:34:07,904 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:34:10,108 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:34:10,116 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:34:11,255 - root - INFO - Escribir Nombre Empresa [AGTV]
+2024-06-11 15:34:13,575 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:34:18,692 - root - INFO - El nombre de archivo sera: AGTV_20240611.jpg
+2024-06-11 15:34:18,699 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1371,941)
+2024-06-11 15:34:18,826 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\AGTV_20240611.jpg
+2024-06-11 15:34:18,840 - root - INFO - Guardado OK.
+2024-06-11 15:34:18,848 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:34:21,007 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:34:21,013 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:34:22,137 - root - INFO - Escribir Nombre Empresa [BASCUNAN 222]
+2024-06-11 15:34:24,519 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:34:29,651 - root - INFO - El nombre de archivo sera: BASCUNAN 222_20240611.jpg
+2024-06-11 15:34:29,657 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1371,941)
+2024-06-11 15:34:29,795 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUNAN 222_20240611.jpg
+2024-06-11 15:34:29,810 - root - INFO - Guardado OK.
+2024-06-11 15:34:29,817 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:34:31,987 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:34:31,994 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:34:33,113 - root - INFO - Escribir Nombre Empresa [BASCUNAN 555]
+2024-06-11 15:34:35,496 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:34:40,608 - root - INFO - El nombre de archivo sera: BASCUNAN 555_20240611.jpg
+2024-06-11 15:34:40,614 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1371,941)
+2024-06-11 15:34:40,749 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BASCUNAN 555_20240611.jpg
+2024-06-11 15:34:40,763 - root - INFO - Guardado OK.
+2024-06-11 15:34:40,771 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:34:42,935 - root - INFO - Preparando pantallazo [ID Empresa: {id_empresa}, Nombre Empresa: {EstadoCamNombre} ] ultima fecha procesada: None
+2024-06-11 15:34:42,941 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:34:44,084 - root - INFO - Escribir Nombre Empresa [BELUXA]
+2024-06-11 15:34:46,404 - root - INFO - Doble clic en la empresa encontrada, en las coordenadas del primer resultado: 331,288
+2024-06-11 15:34:51,541 - root - INFO - El nombre de archivo sera: BELUXA_20240611.jpg
+2024-06-11 15:34:51,548 - root - INFO - Haciendo el print de pantalla en las areas: (90,90 y 1371,941)
+2024-06-11 15:34:51,676 - root - INFO - Guardando archivo: C:\Utils\EstadoCamPY\Capturas\20240611\BELUXA_20240611.jpg
+2024-06-11 15:34:51,691 - root - INFO - Guardado OK.
+2024-06-11 15:34:51,698 - root - INFO - Cerrando vista cliente. Se hara clic en: 1620,70
+2024-06-11 15:34:51,888 - root - INFO - Conexion BD cerrada.
+2024-06-11 15:34:51,894 - root - INFO - Cerrando la ultima vista cargada. Se hara clic en: 1620,70
+2024-06-11 15:34:52,025 - root - INFO - Limpiar campo de busqueda: Se hara clic en 500,177
+2024-06-11 15:34:52,154 - root - INFO - Cerrar ventana monitoreo: Se hara clic en 500,30
+2024-06-11 15:34:52,255 - root - INFO - ***-----------------FINALIZANDO BOT DSS---------------------------***

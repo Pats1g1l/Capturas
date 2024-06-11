@@ -10,7 +10,6 @@ import pyautogui
 
 
 
-
 vDirApp=os.path.dirname(os.path.abspath(__file__))
 vEstaApp=os.path.basename(__file__)
 vArchLog = os.path.splitext(vEstaApp)[0] + ".log"
